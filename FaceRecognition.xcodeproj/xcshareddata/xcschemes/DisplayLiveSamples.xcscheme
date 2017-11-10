@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A56695EB1CE8B34B00BD7EAF"
-               BuildableName = "DisplayLiveSamples.app"
-               BlueprintName = "DisplayLiveSamples"
-               ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+               BuildableName = "FaceRecognition.app"
+               BlueprintName = "FaceRecognition"
+               ReferencedContainer = "container:FaceRecognition.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
@@ -33,9 +34,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A56695FF1CE8B34B00BD7EAF"
-               BuildableName = "DisplayLiveSamplesTests.xctest"
-               BlueprintName = "DisplayLiveSamplesTests"
-               ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+               BuildableName = "FaceRecognitionTests.xctest"
+               BlueprintName = "FaceRecognitionTests"
+               ReferencedContainer = "container:FaceRecognition.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +44,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A566960A1CE8B34B00BD7EAF"
-               BuildableName = "DisplayLiveSamplesUITests.xctest"
-               BlueprintName = "DisplayLiveSamplesUITests"
-               ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+               BuildableName = "FaceRecognitionUITests.xctest"
+               BlueprintName = "FaceRecognitionUITests"
+               ReferencedContainer = "container:FaceRecognition.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A56695EB1CE8B34B00BD7EAF"
-            BuildableName = "DisplayLiveSamples.app"
-            BlueprintName = "DisplayLiveSamples"
-            ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+            BuildableName = "FaceRecognition.app"
+            BlueprintName = "FaceRecognition"
+            ReferencedContainer = "container:FaceRecognition.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,6 +66,7 @@
       buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -76,9 +78,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A56695EB1CE8B34B00BD7EAF"
-            BuildableName = "DisplayLiveSamples.app"
-            BlueprintName = "DisplayLiveSamples"
-            ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+            BuildableName = "FaceRecognition.app"
+            BlueprintName = "FaceRecognition"
+            ReferencedContainer = "container:FaceRecognition.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +97,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A56695EB1CE8B34B00BD7EAF"
-            BuildableName = "DisplayLiveSamples.app"
-            BlueprintName = "DisplayLiveSamples"
-            ReferencedContainer = "container:DisplayLiveSamples.xcodeproj">
+            BuildableName = "FaceRecognition.app"
+            BlueprintName = "FaceRecognition"
+            ReferencedContainer = "container:FaceRecognition.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
